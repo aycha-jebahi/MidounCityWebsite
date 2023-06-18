@@ -1,0 +1,16 @@
+<?php
+
+/* ressources/lang/fr */
+return[
+    'phare' => 'Le phare de Taguermess' ,
+    'defphare' => 'Ce phare, l’un des symboles de Djerba, fut construit à la fin du 19 ème siècle sous l’ordre du bey. Bâtit sur une colline de 20 mètres dans le nord-est de l’île, ce phare de 75 mètres est caractérisé par ses couleurs (blanc et rouge) du drapeau tunisien. Avec une portée dépassant les 50 kilomètres, ce « phnar de Taguermess » comme les Djerbiens l’appellent, est le premier signe lumineux que les marins venant de l’orient et se dirigeaient vers les côtes du Maghreb observaient.',
+    'medina' => 'La Médina',
+    'defmeninx' => 'Le site Meninx est situé dans l’extrême Sud-Est de Djerba. Cette ville, fondée par les Phéniciens, à connue son apogée à l’époque romaine et devenue capitale de l’île. Ce site renferme des vestiges apparents sur une longueur de deux kilomètres et une largeur de 800 mètres environ. Les fouilles ont permis de découvrir l’existence d’un amphithéâtre, un théâtre, une basilique et une esplanade qui devrait constituer le forum (place publique) de la cité.Cette ville à connue une activité commerciale et artisanale très importante. Meninx demeure le chef-lieu de l’île de Jerba jusqu’à la seconde moitié du III ème ou du début du 4ème siècle apr. J.-C. Meninx était une ville riche, en témoigne la diversité du marbre qui ornait ses constructions. Les archéologues ont identifié plusieurs types de marbres.',
+    'defbourgou'=>'Henchir Bourgou est parmi les sites les plus anciens de Djerba d’après l’étude du Ministère de la Culture et l’Institut National du Patrimoine de Tunisie. Il est connu par son grand monument funéraire de l’époque des Numides (peuple semi nomade ancêtres des berbères). La ville antique s’étend sur plusieurs hectares. La collecte intensive du matériel archéologique effectuée sur site en 1996 a révélé que la céramique à vernis noir qui jonche le sol du site témoigne d’une occupation qui remonte au IV éme siècle av. J.C. Cependant, aucune trace d’un plan régulier de la ville n’a été reconnue. Les enduits peints, les moulures, les mosaïques, la céramique d’importation, suggèrent un genre de vie assez aisé.',
+    'defborjaghir'=>'Borj Aghir est situé sur la côte Est de l’île. C’est un grand port construit à l’époque de Ali Bacha (un Bey turc) à la fin du XVII ème siècle. Ce fort a été d’abord transformé sous le protectorat français en un bâtiment de douane puis aujourd’hui à une maison de vacances pour les jeunes.',
+    'defkantara'=>'Au sud de l’île, El Kantara (le pont) est le point d’arrivée de la chaussée romaine, longue de 7 Km qui reliait l’île de Djerba au continent dès l’époque punique et que les Romains transformèrent en véritable voie de communication.',
+    'defmenzel'=>'Elle se situe dans la partie Est de Djerba à proximité de la zone touristique où on trouve des plus belles plages de l’île (plages du Cap Tourgueness, Lalla hadria, de Sidi Slim et d’Aghir). Un marché pittoresque se tient chaque vendredi.  Il existe une communauté noire qui est la plus importante de l’île dont les membres seraient les descendants d’africains amenés du Soudan ou du Niger. Les membres de cette communauté se sont spécialisés surtout dans la musique traditionnelle folklorique. Midoun possède aussi de très beaux Menzels.',
+    ]
+
+?>
+
